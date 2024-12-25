@@ -1,5 +1,5 @@
 # 📱 Zaibten Bluetooth Chat Application
-Zaibten Bluetooth Chat Application is an Android-based real-time chat application that uses Bluetooth for device-to-device communication. Built with **Java** and **XML**, it provides a simple and efficient way to chat between paired devices.
+Zaibten Bluetooth Chat Application is an Android-based real-time chat application that uses Bluetooth for device-to-device communication. Built with **Java**, it provides a simple and efficient way to chat between paired devices.
 
 ---
 
