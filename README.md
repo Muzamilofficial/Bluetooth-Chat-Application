@@ -11,7 +11,10 @@ Zaibten Bluetooth Chat Application is an Android-based real-time chat applicatio
 
 ---
 
-# 📸 Some Screenshots of the Project 🖼️✨
-![banner_1](https://github.com/user-attachments/assets/d7d4bc9a-2893-4b4d-b2f1-88166a7c0e57)
-![banner_2](https://github.com/user-attachments/assets/377fd4a6-8cec-43f7-9d49-cf60ffded848)
-![banner_3](https://github.com/user-attachments/assets/5ae8c82f-0299-4098-819d-e4f89cf1116a)
+## 🚀 Installation
+
+To get started with the application:
+
+1. **Clone this repository**:
+   ```bash
+   git clone https://github.com/Muzamilofficial/zaibten-bluetooth-chat.git
